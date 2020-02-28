@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/core/lucene-core-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/queries/lucene-queries-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/queryparser/lucene-queryparser-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/classification/lucene-classification-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/test-framework/lucene-test-framework-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/demo/lucene-demo-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/backward-codecs/lucene-backward-codecs-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/analysis/common/lucene-analyzers-common-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/codecs/lucene-codecs-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/analysis/opennlp/lucene-analyzers-opennlp-8.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/Desktop/lucene-8.4.1/analysis/stempel/lucene-analyzers-stempel-8.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
