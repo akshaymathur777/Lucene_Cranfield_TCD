@@ -2,6 +2,7 @@
 
 ### Steps for Running 
 Just execute the run.sh file present in the Lucene_Cranfield_TCD folder
+
 ./run.sh
 
 OR
@@ -20,7 +21,7 @@ mvn exec:java -Dexec.mainClass=Searcher
 
 ## Running Trec Eval
 
-###Change directory to trec_eval
+### Change directory to trec_eval
 
 cd trec_eval
 
